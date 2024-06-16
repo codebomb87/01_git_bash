@@ -11,7 +11,7 @@ for practice git bash
 7. git push origin main
 ```
 
-##01_01_check config
+## 01_01_check config
 ```
 # 디폴트 Branch 확인
 git config --get init.defaultBranch
