@@ -1,5 +1,7 @@
 hello world
+d
 nice to meet u!!!
-a
 ed
 cd
+b
+g
